@@ -31,7 +31,7 @@ StockXplorer uses three SQLite databases:
 
 ### Stock Data Table
 
-The `Stock_Data` table in `stockxplorer.db` includes the following columns:
+The `Stock` table in `stocks.db` includes the following columns:
 
 - Ticker (TEXT)
 - Date (TEXT)
@@ -104,5 +104,5 @@ Ensure you have Python and SQLite installed. Clone the repository and run the ap
 
 ```bash
 git clone https://github.com/yourusername/StockXplorer.git
-cd StockXplorer
+
 
